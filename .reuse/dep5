@@ -1,17 +1,8 @@
-
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: source-talks-on-kotlin-3
 Upstream-Contact: Anthony Accioly
 Source: github.com/aaccioly-demos/source-talks-on-kotlin-3
 
-Files: *.odp
-Copyright: 2022 Anthony Accioly
-License: CC-BY-SA-4.0
-
-Files: *.pdf
-Copyright: 2022 Anthony Accioly
-License: CC-BY-SA-4.0
-
-Files: *.pptx
+Files: slides/*
 Copyright: 2022 Anthony Accioly
 License: CC-BY-SA-4.0

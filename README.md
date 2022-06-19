@@ -7,14 +7,13 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 # Source Talks : On Kotlin #3
 Slides and demo code for the Source Talks Community Event @ 2022-06-16
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+Kotlin… Some interesting bits!(For a Java Developer) [demo code][demo-code] © 2022 by
+[Anthony Accioly][blog] is licensed under [Apache-2.0][apache-2.0].
 
 Kotlin… Some interesting bits!(For a Java Developer) [slides][slides] and [README][readme] © 2022 by
-[AnthonyAccioly][blog] are licensed under [CC BY-SA 4.0][cc-by-sa].
+[Anthony Accioly][blog] are licensed under [CC BY-SA 4.0][cc-by-sa].
 
-Kotlin… Some interesting bits!(For a Java Developer) [demo code][demo-code] © 2022 by
-[AnthonyAccioly][blog] is licensed under [Apache-2.0][apache-2.0].
-
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [apache-2.0]: https://spdx.org/licenses/Apache-2.0.html
 [blog]: https://accioly.dev

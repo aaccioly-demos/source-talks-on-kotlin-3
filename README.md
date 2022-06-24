@@ -7,6 +7,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 # Source Talks : On Kotlin #3
 Slides and demo code for the Source Talks Community Event @ 2022-06-16
 
+[![YouTube Video](https://img.youtube.com/vi/SrtZk6Ot1OM/0.jpg)][youtube-video]
+
+
 ## Build
 
 The [demo][demo-code] requires JDK 17 or newer. It was built and tested with [Eclipse Temurin™][eclipse-temurin].
@@ -41,3 +44,4 @@ Copyright 2022 [Anthony Accioly][blog]
 [gradle-wrapper]: https://docs.gradle.org/current/userguide/gradle_wrapper.html
 [readme]: README.md
 [slides]: slides
+[youtube-video]: https://www.youtube.com/watch?v=SrtZk6Ot1OM
